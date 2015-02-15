@@ -30,3 +30,4 @@ require_once(_PS_CLASS_DIR_.'PrestaShopAutoload.php');
 
 spl_autoload_register(array(PrestaShopAutoload::getInstance(), 'load'));
 
+//un comentario
